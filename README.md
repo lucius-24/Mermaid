@@ -4,31 +4,11 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-Strict-orange.svg)
 
-**Mermaid Studio** 是一款开箱即用、由 AI 驱动的现代化 Mermaid 图表可视化编辑器。无需繁琐的语法记忆，只需通过自然语言描述，即可借助大模型（DeepSeek、Gemini、OpenAI 等）快速生成、优化并渲染专业的架构图、流程图、时序图及网络拓扑。
+**Mermaid Studio** 是一款开箱即用、由 AI 驱动的现代化 Mermaid 图表可视化编辑器。无需繁琐的语法记忆，只需通过自然语言描述，即可借助大模型（DeepSeek、Gemini、OpenAI 等）快速生成、优化并渲染专业的架构图、流程图、时序图等十余种图表。
 
 🔗 **在线免费体验**: [https://mermaid.cyber-sec.run](https://mermaid.cyber-sec.run)
 
 ---
-
-### 📸 界面预览
-*(上传截图到 Github 后，请将这里的链接替换为实际的图片地址)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Mermaid+Studio+Dashboard" alt="主界面预览" width="80%">
-  <br>
-  <em>图 1：沉浸式编辑器主界面与实时自适应预览</em>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=AI+Assistant+in+Action" alt="AI 助手生成图表" width="80%">
-  <br>
-  <em>图 2：内置 AI 助手，通过自然语言一键生成与优化代码</em>
-</div>
-
----
-
 ## ✨ 核心特性
 
 - 🤖 **AI 智能赋能**: 内置 AI 助手，支持 DeepSeek（推荐）、Gemini、OpenAI、Claude 等主流模型。支持一键从自然语言生成图表，或对现有代码进行智能纠错与优化。
@@ -37,6 +17,37 @@
 - 📥 **超清纯净导出**: 深度修复了 Mermaid 原生导出时的背景透明、黑块等 Bug。支持一键导出带有完美安全边距的无损 SVG 和 2 倍超清 PNG 图像。
 - 🎨 **双语与个性化主题**: 原生支持中/英双语无缝切换；提供深色/浅色模式，以及 Default、Forest、Neutral、Macaron 四种图表渲染引擎风格。
 - 📚 **全场景模板内置**: 包含 10+ 种常用图表（流程图、序列图、甘特图、类图、状态图、ER 图、用户旅程图、思维导图、时间轴等）的丰富双语示例与语法备忘录。
+
+---
+### 📸 界面预览
+
+<div align="center">
+  <img src="/images/浅色模式.png" alt="主界面预览" width="80%">
+  <br>
+  <em>图 1：沉浸式编辑器主界面与实时自适应预览</em>
+</div>
+
+<br>
+<div align="center">
+  <img src="/images/多语言.png" alt="多语言支持" width="80%">
+  <br>
+  <em>图 2：支持多种语言</em>
+</div>
+
+<br>
+<div align="center">
+  <img src="/images/AI助手.png" alt="AI 助手生成图表" width="80%">
+  <br>
+  <em>图 3：内置 AI 助手，通过自然语言一键生成与优化代码</em>
+</div>
+<br>
+<div align="center">
+  <img src="/images/深色模式.png" alt="深色模式" width="80%">
+  <br>
+  <em>图 4：支持深色模式</em>
+</div>
+
+<br>
 
 ---
 
